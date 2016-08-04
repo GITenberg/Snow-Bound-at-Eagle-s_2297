@@ -1,0 +1,31 @@
+_repo: Snow-Bound-at-Eagle-s_2297
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: Harte's protagonist, John Hale, is relieved of his cash by highway robbers
+  while riding in a stagecoach. Hale decides to get together a group of men to catch
+  the thieves, but as the story moves along, many of his co-conspirators seem to have
+  their own, more malevolent, motives.
+gutenberg_issued: '2006-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2297'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sierra Nevada (Calif. and Nev.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Frontier and pioneer life -- California -- Fiction'
+- !lcsh 'California -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
+title: Snow-Bound at Eagle's
+url: http://www.gutenberg.org/ebooks/2297
