@@ -1,5 +1,8 @@
 _repo: Snow-Bound-at-Eagle-s_2297
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harte, Bret
@@ -13,6 +16,8 @@ description: Harte's protagonist, John Hale, is relieved of his cash by highway 
   while riding in a stagecoach. Hale decides to get together a group of men to catch
   the thieves, but as the story moves along, many of his co-conspirators seem to have
   their own, more malevolent, motives.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2297#Snow-Bound-at-Eagle-s
 gutenberg_issued: '2006-05-14'
 gutenberg_type: Text
 identifiers:
